@@ -1,0 +1,5 @@
+.jazzignore
+.project
+.settings
+*.xpi
+build
