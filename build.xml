@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+ * IBM Confidential
+ *
+ * OCO Source Materials
+ *
+ * (C) Copyright IBM Corp. 2012
+ *
+ * The source code for this program is not published or otherwise
+ * divested of it's trade secrets, irrespective of what has been
+ * deposited with the U.S. Copyright Office.
+ * 
+ -->
+<project name="Connections-Toolbar" default="build-zip" basedir=".">
+
+    <!--Variables-->
+    <property file="external.properties" />
+    <import file="package.xml"/>
+</project>
